@@ -11,3 +11,5 @@ Here are some things I learned in this project & tutorial:
 4. How to consume / use Public API - JIKAN API (https://jikan.moe/)
 5. How to use Tailwind CSS to Styling
 6. How to create custom Styling to Tailwind CSS, which is reusable
+7. How to Implement Authentication Login using 0Auth for Next.js
+8. How to Validate Routing
